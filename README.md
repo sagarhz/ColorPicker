@@ -1,6 +1,6 @@
 🌈 ColorPicker: A Dynamic Art Installation Using Python
 
-In this video, I’m showcasing a creative project that blends art and technology to create a live, interactive display of dominant colors from your environment. Using Python, OpenCV, and NumPy, this program captures video frames from your webcam, analyzes the colors, and transforms them into a beautiful, wavy visual field.
+In this code, I’m showcasing a project that blends art and technology to create a live, interactive display of dominant colors from your environment. Using Python, OpenCV, and NumPy, this program captures video frames from your webcam, analyzes the colors, and transforms them into a beautiful, wavy visual field.
 
 The project uses techniques like K-means clustering for color detection, sinusoidal blending for smooth transitions, and Gaussian blur to enhance the artistic effect. Plus, it displays the RGB values of the dominant colors in real-time, giving it a stylish and technical touch.
 
